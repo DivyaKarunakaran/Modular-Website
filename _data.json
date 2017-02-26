@@ -1,0 +1,28 @@
+{
+
+"index": {
+
+    "pageTitle": "Home"
+
+},
+
+"flexbox": {
+
+    "pageTitle": "Flexbox"
+
+},
+
+"contact": {
+
+    "pageTitle": "Contact"
+
+},
+
+"blog-post": {
+
+    "pageTitle": "Blog Post"
+
+}
+
+}
+

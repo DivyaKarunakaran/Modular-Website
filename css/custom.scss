@@ -1,0 +1,22 @@
+@import "components/_variables.scss";
+@import "components/_buttons.scss";
+
+
+$background-color: #eee;
+$text-size: 16px;
+$font-face: helvetica, sans-serif;
+
+@mixin border-radius($radius) {
+    -webkit-border-radius: $radius;
+    -moz-border-radius: $radius;
+    -ms-border-radius: $radius;
+    border-radius: $radius;
+}
+
+
+body {
+    background: $background-color;
+    font-size: $text-size;
+    font-family: $font-face;
+}
+
