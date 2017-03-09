@@ -1,0 +1,23 @@
+{
+  "name": "modular_blog",
+  "version": "1.0.0",
+  "description": "Developed a responsive and highly modular website using Bootstarp4 (require tether library and jQuery) NodeJS 6.9.5 , NPM 3.10.10 (Grunt v1.2.0, Ruby 2.3.3p222, Harp0.23.0, surge and Jekyll) SASS ",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "npm-git-install": "^0.3.0",
+    "ruby": "^0.6.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "harp": "^0.23.0",
+    "jekyll": "^3.0.0-beta1",
+    "ruby": "^0.6.1",
+    "surge": "^0.18.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Divya",
+  "license": "ISC"
+}
